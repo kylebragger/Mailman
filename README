@@ -1,0 +1,5 @@
+Mailman is my (Kyle Bragger) shoddy attempt to build a decent mail fetching lib for PHP. It served me well when I was running Placefav (you've probably never heard of it), but I'd love to expand the lib to be able to handle most/all of what gets thrown at it, at least with respect to correctly dealing with subject and body contents, proper encodings, etc. Attachments, while nice, are at this stage merely a pipe dream.
+
+So, fork me! I'd love to see what you come up with.
+
+-Kyle
