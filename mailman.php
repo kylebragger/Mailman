@@ -37,7 +37,7 @@
  * Mailman
  * (c)2009-2010 Kyle Bragger <kyle@forrst.com>
  *
- * Started Nov 18, 2009
+ * Started Nov 18, 2009 (based on code from late 2007)
  *
  * Note: Make sure to create MailgetterProcessed and MailgetterFailed folders
  *
